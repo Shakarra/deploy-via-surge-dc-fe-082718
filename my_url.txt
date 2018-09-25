@@ -1,1 +1,1 @@
-cynical-kettle.surge.sh
+http://cynical-kettle.surge.sh
